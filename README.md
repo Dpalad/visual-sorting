@@ -1,6 +1,9 @@
 # visual-sorting
 A program I created, that visualizes sorting algorithms. (some of them are two algorithms "merged" together)
 
+Programming language: C#
+Compiler: Visual Studio 2017(.NET)
+
 Available sorting algorithms:
 	Simple Swap Sort
 	Selection Sort
