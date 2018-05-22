@@ -1,0 +1,10 @@
+D:\VS Projektek\RealVisualSorting\RealVisualSorting\bin\Debug\RealVisualSorting.exe.config
+D:\VS Projektek\RealVisualSorting\RealVisualSorting\bin\Debug\RealVisualSorting.exe
+D:\VS Projektek\RealVisualSorting\RealVisualSorting\bin\Debug\RealVisualSorting.pdb
+D:\VS Projektek\RealVisualSorting\RealVisualSorting\obj\Debug\RealVisualSorting.csprojResolveAssemblyReference.cache
+D:\VS Projektek\RealVisualSorting\RealVisualSorting\obj\Debug\RealVisualSorting.Form1.resources
+D:\VS Projektek\RealVisualSorting\RealVisualSorting\obj\Debug\RealVisualSorting.Properties.Resources.resources
+D:\VS Projektek\RealVisualSorting\RealVisualSorting\obj\Debug\RealVisualSorting.csproj.GenerateResource.Cache
+D:\VS Projektek\RealVisualSorting\RealVisualSorting\obj\Debug\RealVisualSorting.csproj.CoreCompileInputs.cache
+D:\VS Projektek\RealVisualSorting\RealVisualSorting\obj\Debug\RealVisualSorting.exe
+D:\VS Projektek\RealVisualSorting\RealVisualSorting\obj\Debug\RealVisualSorting.pdb
